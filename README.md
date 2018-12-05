@@ -1,5 +1,6 @@
 # keyligh
 
+Returns sum of watchers and stars of trending repos
 
 install Flask
 use command flask run 
